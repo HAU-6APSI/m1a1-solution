@@ -1,4 +1,9 @@
-# Module 1 – Activity 1 – Hello World
+# Module 1 - Activity 1 - Hello World (SOLUTION)
+
+> **Instructor solution (answer key).** This is the completed reference version
+> of the activity: `hello.js` is fully written and `student.json` holds sample
+> values, so all tests pass. Do not hand this folder to students; give them
+> `m1a1-classcode-yourname`. The canonical grading test lives in `hello.test.js`.
 
 Your first activity. Print a message to the console and fill in your details.
 
